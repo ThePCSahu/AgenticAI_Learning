@@ -1,7 +1,3 @@
 {
-  "user_preferences": [
-    "User prefers database index optimizations to be verified afterward.",
-    "User name is Alice, User profession is Python engineer, User prefers code output formatted as Markdown",
-    "User has requested a Hello World program in Python"
-  ]
+  "user_preferences": []
 }
